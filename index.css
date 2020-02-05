@@ -1,0 +1,53 @@
+.fullscreen
+{
+	width: 100%;
+	height: 400px;
+	/*background-image: (../images/background_banna.jpg);*/
+}
+.quote
+{
+	font-family: "Unicode";
+	position: absolute;
+	top:10%;
+	left: 5%;
+	font-size: 20px;
+	/*//background-color: rgba(255,255,255,0.5);*/
+	padding: 30px;
+}
+.bold
+{
+	font-weight: bold;
+}
+.navcustom
+{
+	background-color:#d7d8a059;
+    line-height: 30px;
+    padding: 10px;
+    display: inline-block;
+
+}
+.navcolor
+{
+	background-color: #EF6C00;
+}
+li > a {
+	color: #ffffff;
+}
+.center
+{
+	text-align: center;
+	margin:20px auto;
+}
+.proborder
+{
+	
+    margin-top: 15px;
+    margin-left: 25%;
+    padding: 20px;
+    background-color: #a2959521;
+	text-align: left;
+	border: 1px solid #ffffff;
+	border-left: 3px solid #c07445;
+	border-radius: 20px 0px 20px 0px;
+
+}
